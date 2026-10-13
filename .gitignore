@@ -1,0 +1,12 @@
+# Build artifacts
+*.o
+*.a
+*.so
+*.dSYM/
+a.out
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
